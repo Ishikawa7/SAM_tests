@@ -7,7 +7,8 @@ It explores various prompt design strategies and evaluates their impact on segme
 
 ## Datasets used
 [https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign](https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign)
-[https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)
+[https://datasets.simula.no/kvasir-seg/](https://datasets.simula.no/kvasir-seg/)
+[https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)(not used)
 
 
 ### Prerequisites
